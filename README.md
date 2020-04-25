@@ -1,4 +1,4 @@
-#This Repo is to keep track of all the good tools and tips I encounter in my Data Science & AI learning adventure 
+#This Repo is to keep track of all the good tools and tips I encounter in my Data Science & AI learning adventures 
 
 
 
